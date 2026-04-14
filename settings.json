@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Glowmc_ston.aternos.me",
+    "port":61261, 
     "version": "",
     "try-creative": false
   },
